@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name>sample area border</name>
+		<desc>Length: 1.014 km (0.63 mi)</desc>
+		<trkseg>
+			<trkpt lat="-23.5058443" lon="152.0918512"></trkpt>
+			<trkpt lat="-23.5043488" lon="152.0929027"></trkpt>
+			<trkpt lat="-23.503788" lon="152.0909393"></trkpt>
+			<trkpt lat="-23.5059722" lon="152.0894909"></trkpt>
+			<trkpt lat="-23.5063264" lon="152.090081"></trkpt>
+			<trkpt lat="-23.5066117" lon="152.0902956"></trkpt>
+			<trkpt lat="-23.5066806" lon="152.090553"></trkpt>
+			<trkpt lat="-23.5067888" lon="152.0908213"></trkpt>
+			<trkpt lat="-23.5065428" lon="152.0915508"></trkpt>
+			<trkpt lat="-23.5060312" lon="152.0917118"></trkpt>
+			<trkpt lat="-23.5058935" lon="152.0917439"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
